@@ -1,4 +1,4 @@
-package nl.han.oose.dea.rest.services.dto;
+package han.dea.services.dto;
 
 public class ItemDTO {
     private int id;
